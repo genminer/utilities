@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Developer pool",
+        "url": "stratum+tcp://eu2.bsod.pw:2150",
+        "user": "FjL4XUQW8rAT59Mx8dSNaMgt6roHcgwbsj",
+        "algo": "phi",
+        "pass": "c=FLM"
+    }
+]
