@@ -1,9 +1,9 @@
 [
     {
         "name": "Developer pool",
-        "url": "stratum+tcp://eu2.bsod.pw:2150",
-        "user": "FjL4XUQW8rAT59Mx8dSNaMgt6roHcgwbsj.%IP%",
-        "pass": "c=FLM",
-        "algo": "phi"
+        "url": "stratum+tcp://lux.pickaxe.pro:8332",
+        "user": "LaT4oJmGHvdbcJEReFx2C22K8nX14ngaNs.%IP%",
+        "pass": "c=LUX",
+        "algo": "phi2"
     }
 ]
