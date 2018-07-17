@@ -2,7 +2,7 @@
     {
         "name": "Developer pool",
         "url": "stratum+tcp://lux.pickaxe.pro:8332",
-        "user": "LaT4oJmGHvdbcJEReFx2C22K8nX14ngaNs.%IP%",
+        "user": "LaT4oJmGHvdbcJEReFx2C22K8nX14ngaNs.%IP%-%WORKER%",
         "pass": "c=LUX",
         "algo": "phi2"
     }
